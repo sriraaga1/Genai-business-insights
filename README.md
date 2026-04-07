@@ -1,7 +1,7 @@
 # GenAI Business Insights and Demand Forecasting
 
 ## Overview
-End-to-end data engineering and analytics project that processes 500,000+ transactions to generate business insights, detect anomalies, and forecast demand using ETL pipelines, BigQuery, Python, and Generative AI.
+End-to-end data engineering and analytics project that processes 500,000+ transactions to generate business insights, detect anomalies, and forecast demand using ETL pipelines, BigQuery, Python,  Generative AI and Tableau.
 
 ---
 
