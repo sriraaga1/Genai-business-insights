@@ -1,0 +1,13 @@
+
+Business Insights Summary
+
+1. Total revenue generated from all transactions is 1165521449.00.
+2. The top-performing product by revenue is Tablet.
+3. The top-performing region by revenue is Florida.
+4. Total anomalies detected in transaction revenue: 4817.
+5. Average predicted future daily revenue for the next 30 days is 3184266.91.
+
+Recommendations
+- Focus inventory planning on the top-performing product.
+- Review anomaly transactions for possible fraud, pricing errors, or unusual spikes.
+- Use forecasted revenue trends for demand planning and budgeting.
